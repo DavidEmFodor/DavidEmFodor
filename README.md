@@ -15,4 +15,5 @@
 
 ---
 # 🤖 More About me:
-[👾 Leetcode](https://leetcode.com/u/DDafo/)
+[![👾Leetcode](https://leetcard.jacoblin.cool/DDafo)](https://leetcode.com/DDafo)
+
