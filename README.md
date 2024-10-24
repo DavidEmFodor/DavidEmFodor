@@ -14,4 +14,5 @@
 [![](https://visitcount.itsvg.in/api?id=DavidEmFodor&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-![Leetcode](https://leetcode.com/u/DDafo/)
+# 🤖 More About me:
+![👾 Leetcode](https://leetcode.com/u/DDafo/)
