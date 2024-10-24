@@ -15,4 +15,4 @@
 
 ---
 # 🤖 More About me:
-![👾 Leetcode](https://leetcode.com/u/DDafo/)
+[👾 Leetcode](https://leetcode.com/u/DDafo/)
